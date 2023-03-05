@@ -1,0 +1,6 @@
+- Create a folder called context in the src folder
+- Create a component called GlobalContextState.js & declare the state & export it
+- Create a component called GlobalContext.js. Add the createContext & export it.
+- Call all these components in app.js & add the GlobalContext at the top with .Provider
+- Pass the useState of GlobalContextState to this Provider
+- Use this context in the Lists.jsx to update the empty list inside globalState

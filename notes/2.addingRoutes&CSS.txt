@@ -1,0 +1,14 @@
+1) Run this command to install react app - npx create-react-app app-name-in-small-letter
+2) TO delete unused files from public & src folder
+3) Delete the method or components or images called in your app.js, index.js or index.html
+4) Create the components folder inside src
+5) create navabars, footers, main folders & add the components respectively.
+6) Import the components to your app.js
+7) run these commands - 
+    npm install react-router
+    npm install react-router-dom
+8) Add the BrowserRouter to index.js
+9) Add the Routes & Route to app.js
+9) Use the bulma css for CSS.
+    Link for css file - <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    Link for converting the html to jsx - https://magic.reactjs.net/htmltojsx.htm

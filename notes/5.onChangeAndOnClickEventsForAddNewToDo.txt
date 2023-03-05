@@ -1,0 +1,6 @@
+1) Create the handlers properly in ToDoHandlers & Export it.
+2) To Achieve the access of useContext inside ToDoHandler you need to pass it to the Add & Lists Components
+3) So to do this, Just create a Dashboard Layouter & Add the routing part there. This resolves the undefined error.
+    This makes the ToDoHandler its direct child & gives access to its all the states.
+    This is not possible in the app.js as You have declared the context & ToDoHandlers at the same location.
+4) then call the stateUpdateHandlers & update the globalContextState

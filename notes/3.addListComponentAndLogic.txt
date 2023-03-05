@@ -1,0 +1,6 @@
+- Add the Lists.jsx to main->listToDos folder
+- Call the useEffect for fetching the data
+- declare the data variable
+- declare the todos, setTodos as useState variable
+- use the todos with .map method (Google this method)
+- Add little css (If you want)
