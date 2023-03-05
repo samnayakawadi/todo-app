@@ -1,0 +1,9 @@
+1) Create an account at github
+2) Create a repo
+3) Push the Code to this repo using git commands
+4) Create an account at netlify
+5) Link this repo to netlify
+6) Deploy & Change the site name
+
+Deployed Link - 
+https://todoapplication-reactjs.netlify.app/
